@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWindowsService>true</UseWindowsService>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../FocusBlocker.Shared/FocusBlocker.Shared.csproj" />
+  </ItemGroup>
+</Project>
