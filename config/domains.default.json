@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "groups": [
+    {
+      "name": "bilibili",
+      "note": "B 站主站/直播/静态资源",
+      "domains": [
+        "bilibili.com",
+        "b23.tv",
+        "live.bilibili.com",
+        "biliapi.net",
+        "hdslb.com",
+        "bilivideo.com"
+      ]
+    },
+    {
+      "name": "douyu",
+      "note": "斗鱼",
+      "domains": [
+        "douyu.com",
+        "douyucdn.cn"
+      ]
+    },
+    {
+      "name": "huya",
+      "note": "虎牙",
+      "domains": [
+        "huya.com",
+        "huyaimg.com"
+      ]
+    },
+    {
+      "name": "zhihu",
+      "note": "知乎",
+      "domains": [
+        "zhihu.com",
+        "zhimg.com"
+      ]
+    },
+    {
+      "name": "douyin",
+      "note": "抖音/字节系",
+      "domains": [
+        "douyin.com",
+        "snssdk.com",
+        "byteimg.com"
+      ]
+    }
+  ]
+}
